@@ -1,0 +1,11 @@
+.box{
+    width: 200px;
+    height: 200px;
+    outline: 1px solid red;
+    border-radius: 14px;
+    overflow: hidden;
+}
+.box > img{
+    display:block;
+    width: 100%;
+}
